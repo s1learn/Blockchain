@@ -1,0 +1,15 @@
+Question 1:
+SHA-256 is an example of a:
+
+Correct. SHA-256 is a type of cryptographic hash function which is used in Bitcoin.
+
+Question 2:
+Nonce is...
+
+Correct. A nonce is a number that is used only once as part of the mining process in Bitcoin.
+
+Question 3:
+True or False?: Blocks in a Blockchain are kept separate and are not linked to any of the other blocks in any way.
+Good job!
+
+Correct. Blocks in a Blockchain are linked to each other through the process of cryptographic hashing. Each block is cryptographically hashed and includes the hash from the previous block as part of the hash, this makes it very easy to see if anyone has tampered with any block as changing the value of a hash for a block will automatically "break the chain" and make all the blocks after that block invalid. 
