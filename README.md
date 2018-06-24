@@ -19,6 +19,7 @@ Blockchoin is bitcoin; Blockchain is used in supply chain management, real estat
 You need to buy a full bitcoin
 
 Bitcoin Cash
+
  A new cryptocurrency developed from a "Hard fork" in the bitcoin Blockchain (aug 1 2017)
  Increase block size to 8MB for the 1MB limit prior to the fork
  bitcoincash.org
