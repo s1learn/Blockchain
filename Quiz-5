@@ -1,0 +1,38 @@
+Blockchain and Bitcoin Quick Knowledge Check
+
+Question 1:
+
+True or False?: Bitcoin is anonymous.
+
+False.
+
+ Correct. Bitcoin is not anonymous, it is instead pseudonymous. 
+
+Question 2:
+
+True or False?: Sending bitcoin over the Internet requires the services of a bank.
+
+Correct. To send bitcoin over the Internet to someone else, you do not need the services of a bank. 
+You simply send money directly to the other person and it will arrive securely and almost instantly.
+
+Question 3:
+
+True or False?: Who has been called the "Father of Smart Contracts"?
+
+ Nick Szabo is regarded as the father of smart contracts for having written about and
+ used the term "smart contracts" as far back as early as 1994.
+ 
+Question 4:
+
+What is the maximum number of bitcoins that will ever be in circulation?
+
+ There will be a maximum number of 21 million bitcoins available. 
+ This number will be reached in the year 2140. 
+
+Question 5:
+
+What is the Merkle Root in a block of transactions in Bitcoin?
+
+ The Merkle Root in a Bitcoin transaction block is a single hash that presents a summary of all the transactions in that block. 
+ 
+ 
