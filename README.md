@@ -29,3 +29,13 @@ New blocks are added approximately every ten minuts with the latest transactions
 Each block that is added contains a cryptographic hash of the previous block thergy forming a "Blockchain"
 On August 1, 2017 at 18:24:41 UTC, viaBTC pool produced a 1.9MB block (Block number 478,558), which is not valid on the legacy Bitcoin network which has 1MB block limit.
 
+Max bitcoin limit to mine is 21 Million. Total bitcoins in circulation is 17 million.Mining reward and transaction fees are the rewards given. Volume of transactions also increase. Block size limit of 1MB limits the number of transactions within a block. There will be increase in transaction fee when the number of transaction increase. As per current trends, 21 million bitcoins by the year 2140. 50 bitcoins reward every 10 minutes. The reward is halved after some time is called halving.
+https://blockchain.info/charts/total-bitcoins
+
+Merkle Tree or Hash tree
+
+A Merkle tree is a mathematical data structure composed of hashes of different blocks of data, and whichserves as a summary of all the transactions in a block.
+
+Merkle root is the summary of all transactions in block.Concatenation of pair of hashes is repeated till the Merkle root is arrived.
+
+
