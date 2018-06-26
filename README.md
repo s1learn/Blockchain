@@ -39,3 +39,19 @@ A Merkle tree is a mathematical data structure composed of hashes of different b
 Merkle root is the summary of all transactions in block.Concatenation of pair of hashes is repeated till the Merkle root is arrived.
 
 
+What is Bitcoin? Breif and easy guide
+https://blockchaininformer.com/bitcoin/what-is-bitcoin/
+- Choose your Wallet
+- Wallet Address
+- Get an Address (can be for every transaction as well)
+- Public and Private Key
+- Get bitoins, mining or buy
+- Spend bitcoins
+
+Choose Bitcoin Wallet
+- Mobile
+- Desktop
+- Hardware
+- Web
+
+
