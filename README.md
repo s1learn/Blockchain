@@ -18,6 +18,7 @@ Blockchain is better database; No reversals possible in Blockchain as every tran
 Blockchoin is bitcoin; Blockchain is used in supply chain management, real estate, health care
 You need to buy a full bitcoin
 
+
 Bitcoin Cash
 
  A new cryptocurrency developed from a "Hard fork" in the bitcoin Blockchain (aug 1 2017)
