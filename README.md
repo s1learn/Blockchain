@@ -10,6 +10,28 @@ A smart contract is omputerized transaction protocol that executes the terms of 
 The general objectives of smart contract design are to satisfy common contractual conditions (such as payment terms, liens, confidentiality, and even enforcement), minimize exceptions both malicious and accidental, and minimize the need for trusted intermediaries. 
 Related economic goals include lowering fraud loss, arbitration and enforcement costs, and other transaction costs.
 
+Four components of Bitcoin
+- Software 
+- Cryptography: 
+- Hardware: 
+- Gaming theory: 
+
+1) Bitcoin Software throws a New cryptography challenge every 10 minutes
+2) Global bitcoin miner communitry, Miners race to solve the challenge, to find naunce that satisfies the hash for the block
+3) A miner solves the cryptography challenge first
+4) The rest of the community verify the validity of the new block mined
+5) The new valid block of bitcoin is added to the bitcoin blockchain
+6) The winning miner earns a reward for solving the challenge first, currently 12.5 bitcoins per block added.
+
+Coinbase Transaction
+http://blockdozer.com
+View bitcoin Height, Number of transactions within the block,
+There is one coin based transaction without inputs, this is how the miners reward themselves for creating the valid block
+
+http://blockexplorer.com
+
+https://www.blockchain.com
+
 Common Misconceptions
 
 Bitcoin is anonymous; It is peudo anonymous
