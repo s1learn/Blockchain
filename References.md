@@ -43,3 +43,8 @@ https://blockdozer.com/
 
 Bitcoin/Bitcoin cash/Ethereumβ explorer
 https://blockchair.com/
+
+How Bitcoin Blockchain Works
+http://tech.eu/features/808/bitcoin-part-one/
+
+
