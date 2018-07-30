@@ -78,4 +78,15 @@ Choose Bitcoin Wallet
 - Web
 
 
+BLOCKCHAIN CHARATERISTICS
+Unique Characteristics of Blockchain Technology
+- Decentralised, Peer to Peer Network
+- Cannot be shutdown
+- immutable shared ledger transactions
+- consensus based
+Provides trust between trustless parties
+Efficient
+- Audit on the go
+- Near real time reconcilations
+- Near real time  settlements
 
