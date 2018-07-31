@@ -94,6 +94,21 @@ Efficient
 Enables disintermediated business models
 - Provides Trust
 - Improves efficiency (near real time settlements)
+
 Serves as a Public Ledger of transactions
 - verified registry of records, events, contracts, assets etc.
 
+###### Blockchain Types
+1. Public 
+   - Fully decentralised
+   - Rules cannot be modified
+   - Leverages computing power of several nodes
+   - e.g. Bitcoin, Ethereum
+   - Primsionless Blockchain
+ 2. Private
+    - Permissoned Blockchain
+    - Enterprise Blockchain
+    - e.g Eris and Stellar
+ 3. Consortium / Hybrid
+    - a mix of both public and private
+    - e.g R3CEV (has 42 banks as members) Hyperledger
