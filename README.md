@@ -104,11 +104,27 @@ Serves as a Public Ledger of transactions
    - Rules cannot be modified
    - Leverages computing power of several nodes
    - e.g. Bitcoin, Ethereum
-   - Primsionless Blockchain
+   - Permssionless Blockchain
  2. Private
     - Permissoned Blockchain
     - Enterprise Blockchain
     - e.g Eris and Stellar
  3. Consortium / Hybrid
     - a mix of both public and private
-    - e.g R3CEV (has 42 banks as members) Hyperledger
+    - e.g R3 CEV (has 42 banks as members) Hyperledger
+    - Helps bring several entities with common objectives on one Blockchain
+    - Helps maintain IP within the group of firms
+  
+  ###### Blockchain Usecases beyond Cryptocurrencies
+  1. Crowd Funding
+  2. Land Tile Registries
+  3. Asset Tracking
+  4. Insurance
+  5. Social Networks
+  6. Airbnb ebay like marketplaces
+  7. Prediction Markets
+  8. Identity
+  9. Voting
+  10. Decentralized Autonoumous Organizations
+  11. Real-time billing acorss Telecom Operators (e.g. Airtel, Vodafone)
+  
